@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/CRUD.iml" filepath="$PROJECT_DIR$/CRUD.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Atividade01.iml" filepath="$PROJECT_DIR$/Atividade01.iml" />
+>>>>>>> 4cfef8da5d42126ee4612bc3e8c2c38b09031fa5
+    </modules>
+  </component>
+</project>
